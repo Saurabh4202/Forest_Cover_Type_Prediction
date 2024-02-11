@@ -27,9 +27,6 @@ The dataset can be found [here](https://d3ilbtxij3aepc.cloudfront.net/projects/C
 3. Comanche Peak Wilderness Area
 4. Cache la Poudre Wilderness Area
 
-## Soil Types
-[Description of soil types]
-
 ## Tasks
 ### Task 1: Data Analysis Report
 - Exploratory Data Analysis
